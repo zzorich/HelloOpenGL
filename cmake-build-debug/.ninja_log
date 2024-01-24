@@ -1,0 +1,10 @@
+# ninja log v5
+0	39	1706076131527734605	build.ninja	1dfb72dbece23f3e
+6	70	1706075912286329510	CMakeFiles/HelloWindow.dir/glad.c.o	9990ab5bdeb19f89
+5	516	1706075912728444333	CMakeFiles/HelloWindow.dir/main.cpp.o	e37dd1d23ccaed6e
+427	452	1705743313380574960	HelloWindow	77e32e43a95b471c
+0	49	1706076131527734605	build.ninja	1dfb72dbece23f3e
+3	486	1706076132016580271	CMakeFiles/HelloWindow.dir/main.cpp.o	e37dd1d23ccaed6e
+486	519	1706076132052352437	HelloWindow	77e32e43a95b471c
+2	563	1706076423337589432	CMakeFiles/HelloWindow.dir/main.cpp.o	e37dd1d23ccaed6e
+563	595	1706076423371119039	HelloWindow	77e32e43a95b471c
